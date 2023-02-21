@@ -13,9 +13,9 @@ Recomanem els següents enllaços per poder instal·lar els components de progra
 
 ## Contingut del repositori
 
-- [Mòdul 1. Introducció als grafs i xarxes](./M1/)
+- [Mòdul 1. Introducció als grafs i a les xarxes](./M1/)
 - [Mòdul 2. Mètriques i propietats dels grafs](./M2/)
-- [Mòdul 3. Visualització de grafs](./M3/)
+- [Mòdul 3. Extracció i visualització de grafs](./M3/)
 - [Mòdul 4. Detecció de comunitats](./M4/)
 - [Mòdul 5. Difusió i propagació de la informació](./M5/)
 - [Mòdul 6. Generació de grafs sintètics](./M6/)
