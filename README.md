@@ -19,3 +19,4 @@ Recomanem els següents enllaços per poder instal·lar els components de progra
 - [Mòdul 4. Detecció de comunitats](./M4/)
 - [Mòdul 5. Difusió i propagació de la informació](./M5/)
 - [Mòdul 6. Generació de grafs sintètics](./M6/)
+- [Exemples de la API de Twitter](./Twitter/)
